@@ -42,6 +42,6 @@ export const achievementsData = [
     date: "2024",
     image: hackerRank,
     description: "Earned the maximum 5-star rating in C++ problem solving on HackerRank, validating strong language proficiency.",
-    link: "https://hackerrank.com/"
+    link: "https://www.hackerrank.com/profile/jeevanthitrya"
 }
 ];

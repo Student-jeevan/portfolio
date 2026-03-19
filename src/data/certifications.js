@@ -10,7 +10,7 @@ export const certificationsData = [
         year: "2025",
         file: oracleAwsCertificate,
         description: "Certification demonstrating advanced cloud architecture knowledge and ability to design, deploy, and manage distributed applications.",
-        link: "#"
+        link: "https://catalog-education.oracle.com/ords/certview/sharebadge?id=3912C28E5D34BE83ABD21C43C75DD4994E514D20802BE215DA35A6916979828C"
     },
     {
         id: "oracle-devops",
@@ -19,7 +19,7 @@ export const certificationsData = [
         year: "2025",
         file: oracleDevopsCertificate,
         description: "Certification validating DevOps automation, infrastructure as code, and CI/CD expertise on Oracle Cloud Infrastructure.",
-        link: "#"
+        link: "https://catalog-education.oracle.com/ords/certview/sharebadge?id=0AE2654526A00D5B7D85487FFEAE14C14AB44084321976773FFB567F7CF3D40B"
     },
     {
         id: "tle-level2",
