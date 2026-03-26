@@ -19,9 +19,9 @@ const Home = () => (
         <Navbar />
         <main>
             <Introduction />
+            <TechStack />
             <Projects />
             <Certifications />
-            <TechStack />
             <Achievements />
             <Training />
             <Education />
