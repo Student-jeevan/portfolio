@@ -35,7 +35,7 @@ const Introduction = () => {
                     </a>
                 </div>
 
-                <a href={cvFile} download="Jeevansingh_CV.pdf" className="btn btn-primary">
+                <a href={cvFile} target="_blank" rel="noopener noreferrer" className="btn btn-primary">
                     <FaDownload /> Download CV
                 </a>
             </div>
